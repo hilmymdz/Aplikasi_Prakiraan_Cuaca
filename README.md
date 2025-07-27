@@ -26,4 +26,13 @@ Aplikasi Cuaca Desktop adalah sebuah aplikasi Java Swing sederhana yang dibuat m
 
 - **Pencarian Kota:** Pengguna dapat mencari cuaca untuk kota mana pun di dunia.
 
+## 🛠️ Teknologi yang Digunakan
+
+- **Bahasa Pemrograman:** Java
+- **Framework UI:** Java Swing
+- **IDE:** Apache NetBeans
+- **API:** [OpenWeatherMap One Call API](https://openweathermap.org/api)
+- **Library:**
+  - **Gson:** Untuk mem-parsing data JSON dari respons API.
+
 ### Untuk menggunakan jangan lupa Add Gson.jar dilibraries nya
