@@ -1,6 +1,6 @@
 # Aplikasi Cuaca Desktop (Weather Info)
 
-![Screenshot Aplikasi Cuaca] (<img width="707" height="727" alt="image" src="https://github.com/user-attachments/assets/b9f06122-633b-4dc6-8dfb-1edebe98af50" />)
+(<img width="707" height="727" alt="image" src="https://github.com/user-attachments/assets/b9f06122-633b-4dc6-8dfb-1edebe98af50" />)
 
 Aplikasi Cuaca Desktop adalah sebuah aplikasi Java Swing sederhana yang dibuat menggunakan NetBeans IDE. Aplikasi ini memungkinkan pengguna untuk mencari informasi cuaca terkini dan prakiraan cuaca untuk 5 hari ke depan di berbagai kota di seluruh dunia. Aplikasi ini mengambil data secara *real-time* dari API [OpenWeatherMap](https://openweathermap.org/api).
 
